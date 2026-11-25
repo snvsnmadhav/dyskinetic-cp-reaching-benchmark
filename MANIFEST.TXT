@@ -1,0 +1,7 @@
+data_summarized.zip (application/zip) 29832 bytes.
+Python scripts / Jupyter notebooks to visualize data/code.zip (application/zip) 376013 bytes.
+data.zip (application/zip) 9787855 bytes.
+code_revised.zip (application/zip) 42710220 bytes.
+data_summarized_revised.zip (application/zip) 496164 bytes.
+README revision.txt (text/plain) 713 bytes.
+README.txt (text/plain) 2253 bytes.
